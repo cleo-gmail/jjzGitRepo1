@@ -1,0 +1,7 @@
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
+
+http://rogerdudler.github.io/git-guide/
+
+http://code.tutsplus.com/tutorials/easy-version-control-with-git--net-7449
+
+http://code.tutsplus.com/tutorials/getting-the-hang-of-github--net-8494
